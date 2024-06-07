@@ -1,0 +1,10 @@
+# 모든 node_modules 폴더 무시
+node_modules/
+
+# 특정 경로의 node_modules 폴더 무시
+client/node_modules/
+server/node_modules/
+
+# .key 및 .cert 파일 무시
+*.key
+*.cert
