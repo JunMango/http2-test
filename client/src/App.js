@@ -8,7 +8,7 @@ function App() {
   const [isData, setIsData] = useState([]);
 
   useEffect(() => {
-    fetch('https://172.21.77.186:8000')
+    fetch('https://localhost:8000') // 실행 컴퓨터의 와이파이의 주소
       .then((response) => response.json())
       .then((json) => {
         console.log(json);
