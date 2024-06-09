@@ -46,4 +46,4 @@ client 파일을 동작 시키기 위해서는 다음 명령어를 실행 하세
 
 ### 동작 사진 첨부
 
-![http2-server](https://github.com/JunMango/http2-test/assets/83738337/783897f2-0368-4616-a457-62f63cbc3893) ![http2-console](https://github.com/JunMango/http2-test/assets/83738337/627b5e3b-9401-43b4-85d7-f57b188ca300) ![hppt2-network](https://github.com/JunMango/http2-test/assets/83738337/5e099b25-d291-4d67-bb60-43cc1df26146)
+![http2-server](https://github.com/JunMango/http2-test/assets/83738337/585574bc-7232-441b-af2c-5c710f9630b2) ![http2-console](https://github.com/JunMango/http2-test/assets/83738337/627b5e3b-9401-43b4-85d7-f57b188ca300) ![hppt2-network](https://github.com/JunMango/http2-test/assets/83738337/5e099b25-d291-4d67-bb60-43cc1df26146)
